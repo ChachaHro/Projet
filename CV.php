@@ -340,7 +340,7 @@
 
 
         <footer>
-            <div class="container">
+           <div class="container">
                 <div class="row">
                     <div class="col-md-4">
                         <h2>Étudiante du CNED</h2>
@@ -376,5 +376,6 @@
                 <hr />
                 <p id="copyright">&copy; Amélia Pilou 2015</p>
             </div>
+         
         </footer>
     </body>

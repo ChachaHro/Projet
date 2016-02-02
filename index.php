@@ -24,27 +24,24 @@
 
                                     <!--    Corps de la pages   -->
         <div class="jumbotron">
-            <div class="container">
+           <div class="container">
+                   <div class="souscontenair" >
                 <h1>Bonjour et bienvenue sur monProjet !</h1>
                 <p>
-                    <img id="maPhoto" class="pull-left img-rounded" src="images/Capture.PNG" alt="Ma photo d'identité" /> Un text ICI
+                    <img id="Logo" class="pull-left img-rounded" src="images/Logo.png" alt="Logo du Projet" /> Quaestione igitur per multiplices dilatata fortunas cum ambigerentur quaedam, non nulla levius actitata constaret, post multorum clades Apollinares ambo pater et filius in exilium acti cum ad locum Crateras nomine pervenissent, villam scilicet suam quae ab Antiochia vicensimo et quarto disiungitur lapide, ut mandatum est, fractis cruribus occiduntur.
                 </p>
                 <p><a class="btn btn-primary btn-lg" href="#" role="button">En savoir plus &raquo;</a></p>
             </div>
         </div>
+        </div>
 
 
                                     
-                                    
-                                   
-                                    
-                                    
-                                    
-                                    
+
                                     <!--        Footer         -->
         <?php            
             include('includes/footer.inc.php');
-            //chargement script Java
+            //chargement JavaScript
             include('includes/scriptjs.inc.php');
         ?>
                                     

@@ -22,8 +22,8 @@
          echo       '<li><a href="'.$dirPages .'about.php"><span class="glyphicon glyphicon-envelope"></span> About us</a></li>';
          echo       '</ul>';
          echo      '<ul class="nav navbar-nav navbar-right">';
-         echo       '<li><a href="#">Sign In</a></li>';
-         echo       '<li><a href="#">register</a></li>';
+         echo       '<button type="button" class="logreg-btn">Sign in</button>';
+         echo       '<button type="button" class="logreg-btn">Register</button>';
          echo       '</ul>';
          echo       '</div>';
          echo       '</div>';
